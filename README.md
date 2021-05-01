@@ -1,3 +1,4 @@
+![SpaceInputs logo](picture/spaceinputs_new.png)
 # SpaceInputs
 An input library that fits all of your input needings. Currently, SpaceInputs can run over XLib. But we'll add support for terminal and as well as Windows.
 
@@ -13,3 +14,7 @@ And you are done!
 
 ### Disclaimer
 SpaceInputs is distributed under the terms of MIT licence.
+
+### Follow us to keep up-to-date!
+[SpaceCraft on Instagram](http://instagram.com/spacecraft_tr)
+[SpaceCraft on GitHub](http://github.com/SpaceCraftTR)
